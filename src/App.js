@@ -1,9 +1,10 @@
 import './App.css';
-import AgeCalculator from './age';
+import UserRecords from './UserRecords';
+
 function App() {
   return (
     <div className="App">
-      <AgeCalculator/>
+      <UserRecords/>
     </div>
   );
 }
